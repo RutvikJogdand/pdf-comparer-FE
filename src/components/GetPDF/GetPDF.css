@@ -1,0 +1,22 @@
+.container{
+    justify-content: space-between;
+    align-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.diff-container{
+    justify-content: space-around;
+    align-content: center;
+    align-items: center;
+    max-width: 80%;
+    margin: auto;
+}
+
+.submit-btn{
+    cursor: pointer;
+}
+
+.submit-btn:disabled{
+    cursor: not-allowed;
+}
