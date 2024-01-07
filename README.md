@@ -1,6 +1,8 @@
-<<<<<<< HEAD
+
 # pdf-comparer-FE
-=======
+
+### Checkout the app here: https://pdf-comparer-fe.vercel.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
